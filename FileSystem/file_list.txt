@@ -1,0 +1,14 @@
+  2631689      8 -rw-r--r--   1 keiser   keiser        683 Apr 19 20:44 ./ldisk.h
+  2631413     20 -rw-r--r--   1 keiser   keiser      12756 Apr 21 20:58 ./filesys.c
+  2631695      8 -rw-r--r--   1 keiser   keiser        650 Apr 19 19:08 ./lfile.c
+  2631603      4 -rw-r--r--   1 keiser   keiser          0 Apr 25 11:45 ./file_list.txt
+  2629801     28 -rwxr-xr-x   1 keiser   keiser      23096 Apr 25 10:58 ./filesys
+  2631741     68 -rw-r--r--   1 keiser   keiser      64963 Apr 19 21:17 ./screenshot_filesys.jpg
+  2631697     12 -rw-r--r--   1 keiser   keiser       4478 Apr 25 10:51 ./main.c
+  2631688      8 -rw-r--r--   1 keiser   keiser       2574 Apr 19 21:11 ./ldisk.c
+  2629782      8 -rw-r--r--   1 keiser   keiser        426 Apr 25 11:36 ./readme.txt
+  2631411      8 -rw-r--r--   1 keiser   keiser       2128 Apr 19 20:26 ./dtree.c
+  2631602      8 -rw-r--r--   1 keiser   keiser       2079 Apr 19 20:23 ./filesys.h
+  2631696      8 -rw-r--r--   1 keiser   keiser        360 Apr 19 19:08 ./lfile.h
+  2630859      8 -rw-r--r--   1 keiser   keiser         43 Apr 19 10:10 ./dir_list.txt
+  2631412      8 -rw-r--r--   1 keiser   keiser        969 Apr 21 20:59 ./dtree.h

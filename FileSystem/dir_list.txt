@@ -1,0 +1,4 @@
+./
+./folder1
+./testfolder
+./folder1/kt
